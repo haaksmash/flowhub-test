@@ -1,3 +1,4 @@
 # Flowhub Test Repo
 
 FIRST FEATURE
+SECOND FEATURE
